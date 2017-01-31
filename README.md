@@ -8,10 +8,10 @@
     + <https://hunkim.github.io/ml/>
 
 ## Schedule
-- Every thursday 14:00 -- 16:00
+- Every thursday 14:00 \-\- 16:00
 - 2/9
     + Tutorial
-        * Introduction ~ Neural Network 2 (MNIST 98%)
+        * Introduction \-\- Neural Network 2 (MNIST 98%)
     + Paper
         * TBD
 - 2/17
