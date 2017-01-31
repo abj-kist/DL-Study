@@ -4,7 +4,7 @@
 - Generative adversarial networks (Yejee Choi, Yujin Hong)
 
 ## Tutorial
-- Tensorflow Tutorial
+- Tensorflow tutorial
     + <https://hunkim.github.io/ml/>
 
 ## Schedule
