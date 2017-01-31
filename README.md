@@ -1,11 +1,10 @@
 # DL-Study
 ## Topic
-- Object recognition (Kipyo Nam, Byeongjoo Ahn)
-- Generative adversarial networks (Yejee Choi, Yujin Hong)
+- **Object recognition** (Kipyo Nam, Byeongjoo Ahn)
+- **Generative adversarial networks** (Yejee Choi, Yujin Hong)
 
 ## Tutorial
-- Tensorflow tutorial
-    + <https://hunkim.github.io/ml/>
+- [Tensorflow tutorial](https://hunkim.github.io/ml/)
 
 ## Schedule
 > Every thursday 14:00 -- 16:00
