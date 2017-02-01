@@ -1,6 +1,6 @@
 # DL-Study
 ## Topic
-- **Object recognition** (Kipyo Nam, Byeongjoo Ahn)
+- **Object recognition** (Gi Pyo Nam, Byeongjoo Ahn)
 - **Generative adversarial networks** (Yejee Choi, Yujin Hong)
 
 ## Tutorial
@@ -19,5 +19,7 @@
 - 3/2
     + Final Implementation
 
+## Acknowledgement
+- [Tensorflow setup](http://pythonkim.tistory.com/71)
 
 
