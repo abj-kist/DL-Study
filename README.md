@@ -1,7 +1,7 @@
 # DL-Study
 ## Topic
 - **Object recognition** (Gi Pyo Nam, Byeongjoo Ahn)
-- **Generative adversarial networks** (Yejee Choi, Yujin Hong)
+- **Generative adversarial networks** (Yeji Choi, Eugene Hong)
 
 ## Tutorial
 - [Tensorflow tutorial](https://hunkim.github.io/ml/)
