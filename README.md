@@ -38,5 +38,6 @@
 
 ## Acknowledgement
 - [Tensorflow setup](http://pythonkim.tistory.com/71)
+- [Tensorflow setup2](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/)
 
 
