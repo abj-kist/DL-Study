@@ -23,7 +23,7 @@
         * http://www.robots.ox.ac.uk/~tvg/publications/talks/fast-rcnn-slides.pdf
         * http://www.modulabs.co.kr/DeepLAB_minutes/7857
         * http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086
-- 2/17
+- 2/23
     + Tutorial
         * Introduction -- Neural Network 2 (MNIST 98%)
     + Paper
@@ -32,12 +32,15 @@
             * [YOLO9000](https://arxiv.org/abs/1612.08242)
         * Super resolution
             * [Pixel Recursive Super Resolution](https://arxiv.org/abs/1702.00783)
-- 2/23
 - 3/2
     + Final Implementation
 
 ## Acknowledgement
 - [Tensorflow setup](http://pythonkim.tistory.com/71)
 - [Tensorflow setup2](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/)
+
+## Additional
+- https://github.com/PrajitR/fast-pixel-cnn
+- 
 
 
