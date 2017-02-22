@@ -41,6 +41,3 @@
 
 ## Additional
 - [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn )
-- 
-
-
