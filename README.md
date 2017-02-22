@@ -40,7 +40,7 @@
 - [Tensorflow setup2](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0-rc/)
 
 ## Additional
-* https://github.com/PrajitR/fast-pixel-cnn
+- [Fast PixelCNN++: speedy image generation](https://github.com/PrajitR/fast-pixel-cnn )
 - 
 
 
